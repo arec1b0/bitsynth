@@ -1,0 +1,32 @@
+# Compiled binaries
+*.o
+*.obj
+*.com
+*.bin
+*.exe
+*.sys
+
+# DOSBox generated files
+*.conf
+stderr.txt
+stdout.txt
+
+# Build artifacts
+/build/temp/
+
+# Editor files
+*~
+.*.swp
+.*.swo
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
